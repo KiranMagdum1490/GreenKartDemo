@@ -54,7 +54,6 @@ public class HomePage extends TestBase {
 		 * System.out.println("The entered qty are:- " + EntredQty);
 		 */
 		BeansAddToCartBtn.click();
-		
 
 	}
 
@@ -64,6 +63,9 @@ public class HomePage extends TestBase {
 		homeSearchBtn.click();
 		TomatoAddToCartBtn.click();
 		HomeCartBtn.click();
+
+		System.out.println("This is the new change after the Imported Project");
+		System.out.println("This is the new change after the Imported Project");
 
 	}
 
